@@ -1,0 +1,7 @@
+echo "# Egg" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/SantiagoBelmares/Egg.git
+ git push - tu origen principal
